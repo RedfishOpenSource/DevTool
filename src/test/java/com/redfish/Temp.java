@@ -15,7 +15,7 @@ public class Temp {
 
     @Test
     public void demo() throws UnsupportedEncodingException {
-        String temp = URLEncoder.encode("D:\\develop\\GitNote\\RedfishOpenSource\\DevTool\\src\\main\\java\\com\\redfish\\cc\\demo.groovy","UTF-8");
+        String temp = URLEncoder.encode("E:\\project\\v7.0.1\\DevTool\\demo.groovy","UTF-8");
         System.out.println(temp);
     }
 
