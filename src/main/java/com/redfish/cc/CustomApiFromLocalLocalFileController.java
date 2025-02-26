@@ -84,7 +84,7 @@ public class CustomApiFromLocalLocalFileController {
                     "\t\t\t\"DepartID\": \"0\",\n" +
                     "\t\t\t\"Hard\": \"HARD:(FM)98B99068255ECFC06599385B6F0A98A8\",\n" +
                     "\t\t\t\"CPU\": \"Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz\",\n" +
-                    "\t\t\t\"Online\": \"0\"\n" +
+                    "\t\t\t\"Online\": \"1\"\n" +
                     "\t\t},\n" +
                     "\t\t{\n" +
                     "\t\t\t\"DeviceID\": \"65\",\n" +
@@ -106,7 +106,7 @@ public class CustomApiFromLocalLocalFileController {
                     "\t\t\t\"DepartID\": \"0\",\n" +
                     "\t\t\t\"Hard\": \"HARD:(FM)4F542946E06468ECF1BCE9A0EA6E21D0\",\n" +
                     "\t\t\t\"CPU\": \"Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz\",\n" +
-                    "\t\t\t\"Online\": \"0\"\n" +
+                    "\t\t\t\"Online\": \"1\"\n" +
                     "\t\t},\n" +
                     "\t\t{\n" +
                     "\t\t\t\"DeviceID\": \"81\",\n" +
